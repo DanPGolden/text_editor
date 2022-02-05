@@ -25,6 +25,12 @@ The following images demonstrate the application in use.
 ![JATE_Manifest](textedit3.jpg)
 ![JATE_ServiceWorker](textedit4.jpg)
 
+## Technologies
+* Webpacks
+* Node
+* Express
+* Babel
+* Workbox
 
 ## Contact
 If you have any questions about this project or would like to report and issue, please email Dan Golden and golden.daniel@gmail.com
