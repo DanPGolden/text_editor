@@ -20,6 +20,11 @@ This application has been deployed at Heroku. [It can be located here.](https://
 
 ## Usage
 The following images demonstrate the application in use.
+![JATE_Main](textedit.jpg)
+![JATE_Console_log](textedit2.jpg)
+![JATE_Manifest](textedit3.jpg)
+![JATE_ServiceWorker](textedit4.jpg)
+
 
 ## Contact
 If you have any questions about this project or would like to report and issue, please email Dan Golden and golden.daniel@gmail.com
